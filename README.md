@@ -15,3 +15,4 @@ se deben descargar y configurar por aparte eclipse,el plugint adt y el sdk para 
 https://eclipse.org/downloads/
 http://developer.android.com/intl/es/sdk/installing/index.html?pkg=tools
 
+En la wiki hay mas enlaces a documentación y tutoriales sobre desarrollo en android
